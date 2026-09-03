@@ -17,7 +17,7 @@ function clicklike () {
 function clickDeslike () {
 
 
-      console.log ("ui clicado");
+      console.log ("fui clicado");
       let texto2=botaodeslike.querySelector("span");
       texto2.textContent++;
 
